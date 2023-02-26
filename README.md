@@ -14,6 +14,16 @@ Add interactivity to highlight, select, and display additional information on mo
 Choose a suitable software or package, such as Shiny, Bokeh, Plotly, or D3.js
 Add widgets, such as sliders, buttons, menus, or checkboxes, to allow user interaction with your visualizations
 Create engaging and exploratory visualizations that can enhance data communication and understanding
-
-[Link to HTML]([path/to/file.html](https://github.com/Jennnnnnn8133/Advanced-Visualizations/blob/main/stat437_HW2.html))
-
+![Alt Text](Stat 437 HW2pdf-01.png)
+![Alt Text](Stat 437 HW2pdf-02.png)
+![Alt Text](Stat 437 HW2pdf-03.png)
+![Alt Text](Stat 437 HW2pdf-04.png)
+![Alt Text](Stat 437 HW2pdf-05.png)
+![Alt Text](Stat 437 HW2pdf-06.png)
+![Alt Text](Stat 437 HW2pdf-07.png)
+![Alt Text](Stat 437 HW2pdf-08.png)
+![Alt Text](Stat 437 HW2pdf-09.png)
+![Alt Text](Stat 437 HW2pdf-10.png)
+![Alt Text](Stat 437 HW2pdf-11.png)
+![Alt Text](Stat 437 HW2pdf-12.png)
+![Alt Text](Stat 437 HW2pdf-13.png)
