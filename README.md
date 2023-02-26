@@ -15,7 +15,9 @@ Choose a suitable software or package, such as Shiny, Bokeh, Plotly, or D3.js
 Add widgets, such as sliders, buttons, menus, or checkboxes, to allow user interaction with your visualizations
 Create engaging and exploratory visualizations that can enhance data communication and understanding
 ![Alt Text](Stat 437 HW2pdf-01.png)
+
 ![Alt Text](Stat 437 HW2pdf-02.png)
+
 ![Alt Text](Stat 437 HW2pdf-03.png)
 ![Alt Text](Stat 437 HW2pdf-04.png)
 ![Alt Text](Stat 437 HW2pdf-05.png)
