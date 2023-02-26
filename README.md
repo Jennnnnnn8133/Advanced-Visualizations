@@ -16,14 +16,5 @@ Add widgets, such as sliders, buttons, menus, or checkboxes, to allow user inter
 Create engaging and exploratory visualizations that can enhance data communication and understanding
 
 
-<object data="Stat 437 HW2pdf.pdf" width="700px" height="700px">
-    <embed src="Stat 437 HW2pdf.pdf">
-</object>
+<embed src="Stat 437 HW2pdf.pdf" width="500" height="375" type='application/pdf'>
 
-
-https://github.com/Jennnnnnn8133/Advanced-Visualizations/blob/c74622110780f432647eb48bb3a85ce327eda1af/Stat%20437%20HW2pdf.pdf
-
-
-<object data="https://github.com/Jennnnnnn8133/Advanced-Visualizations/blob/c74622110780f432647eb48bb3a85ce327eda1af/Stat%20437%20HW2pdf.pdf" width="700px" height="700px">
-    <embed src="https://github.com/Jennnnnnn8133/Advanced-Visualizations/blob/c74622110780f432647eb48bb3a85ce327eda1af/Stat%20437%20HW2pdf.pdf">
-</object>
