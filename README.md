@@ -16,5 +16,5 @@ Add widgets, such as sliders, buttons, menus, or checkboxes, to allow user inter
 Create engaging and exploratory visualizations that can enhance data communication and understanding
 
 
-<embed src="Stat 437 HW2pdf.pdf" width="500" height="375" type='application/pdf'>
+<embed src="Stat 437 HW2pdf.pdf" type='application/pdf'>
 
