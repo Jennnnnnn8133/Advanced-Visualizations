@@ -15,6 +15,5 @@ Choose a suitable software or package, such as Shiny, Bokeh, Plotly, or D3.js
 Add widgets, such as sliders, buttons, menus, or checkboxes, to allow user interaction with your visualizations
 Create engaging and exploratory visualizations that can enhance data communication and understanding
 
-
-<embed src="Stat 437 HW2pdf.pdf" type='application/pdf'>
+[Link to HTML]([path/to/file.html](https://github.com/Jennnnnnn8133/Advanced-Visualizations/blob/main/stat437_HW2.html))
 
